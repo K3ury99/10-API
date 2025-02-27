@@ -27,10 +27,8 @@ You just have to download the zip file that is at the beginning of this reposito
 
 ✅ 10 Unique API Implementations  
 ✅ RESTful Design Patterns  
-✅ Third-Party Integrations (Twitter, Spotify, OpenWeatherMap)  
-✅ JWT Authentication Flow  
+✅ Third-Party Integrations
 ✅ Rate Limiting & Security Practices  
-✅ Dockerized Deployments  
 ✅ Postman Collections Included  
 ✅ Multi-language Support (Node.js, Python, Go)  
 
