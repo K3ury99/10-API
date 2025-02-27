@@ -3,8 +3,12 @@
 > A curated collection of **10 diverse API projects** showcasing integration with popular services, RESTful design, and modern development practices. Perfect for learning backend development and API!
 
 <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/f087ac4f-a267-440c-bac1-bbe624b1f5d2" width="49%"></img>   
-  <img src="https://github.com/user-attachments/assets/f9904fee-5157-41ea-bf24-1c8c51b3bff1" width="49%"></img> 
+  <img src="https://github.com/user-attachments/assets/eb61846e-2fde-4f1e-bbd9-2c3280f4ea9d" width="49%"></img>   
+  <img src="https://github.com/user-attachments/assets/cc07e24d-585d-40a4-9d7e-437b4a14bb09" width="49%"></img> 
+</div>
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/d7ad7c27-686f-479a-9ba9-a1602f5436c3" width="49%"></img>   
+  <img src="https://github.com/user-attachments/assets/4ff91847-46ba-4a6d-9024-2fa2475ff13d" width="49%"></img> 
 </div>
 
 # 🗝 How to use it  
